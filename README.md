@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirup56&label=Profile%20views&color=0e75b6&style=flat" alt="abhirup56" /> </p>
 
-- 🔭 I’m currently working on **Advance virtual assistent**
+- 🔭 I’m currently working on **Advance virtual assistent by Python**
 
 - 📫 How to reach me **ghoshabhi387@gmail.com**
 
